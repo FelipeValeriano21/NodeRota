@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "João da Silva", 
+        "idade": "19",
+        "altura": "1.80",
+        "pais": "Brasil"
+    }, 
+    {
+        "nome": "Matheus Martins", 
+        "idade": "20",
+        "altura": "1.85",
+        "pais": "Brasil"
+    }, 
+    {
+        "nome": "Honda Nakmoto", 
+        "idade": "52",
+        "altura": "1.50",
+        "pais": "Japão"
+    }, 
+    {
+        "nome": "Manuel", 
+        "idade": "56",
+        "altura": "1.75",
+        "pais": "Italia"
+    }
+]
